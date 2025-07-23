@@ -69,6 +69,8 @@ The goal is to clean the data, extract key KPIs, and build a clear and insightfu
 
 ## Insights
 
+- **Top-seling Categories:**
+Technology generated the highest sales, followed by Office Supplies and Furniture.
 
 ---
 
