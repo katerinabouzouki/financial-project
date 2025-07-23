@@ -86,7 +86,7 @@ The West Region contributed the largest share of both total sales and profit, wh
 
 ---
 
-## 📌 How to Run the Project
+## How to Run the Project
 
 1. Clone this repository:
    ```bash
