@@ -63,7 +63,7 @@ The goal is to clean the data, extract key KPIs, and build a clear and insightfu
 
 ## Dashboard Screenshots
 
-![screenshot]()
+![Dashboard 1]()
 
 ---
 
@@ -71,6 +71,16 @@ The goal is to clean the data, extract key KPIs, and build a clear and insightfu
 
 - **Top-seling Categories:**
 Technology generated the highest sales, followed by Office Supplies and Furniture.
+- **Regional Performance:**
+The West Region contributed the largest share of both total sales and profit, while the South Region lagged behind in sales and the Central Region lagged behind in profit.
+- **Sub-Category Highlights:**
+  - Chairs and Phones are the best-performing sub‑categories in terms of total sales.
+  - Tables and Bookcases show low profit margins and sometimes even losses despite decent    sales
+- **Profitability Patterns:** Higher discounts do not necessarily lead to higher profits. In this dataset, Furniture shows that despite heavy discounts, profitability remains low.
+  - *Furniture* has the highest average discount (≈17.4%) but also the lowest total profit  (≈86,348).
+  - *Office Supplies* achieve the highest total profit (≈433,317) with lower average discounts.
+  - *Technology* stands in between, with moderate discounts (≈13.2%) and solid profit (≈249,811).
+
 
 ---
 
