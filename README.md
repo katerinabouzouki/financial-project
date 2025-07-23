@@ -63,7 +63,9 @@ The goal is to clean the data, extract key KPIs, and build a clear and insightfu
 
 ## Dashboard Screenshots
 
-![Dashboard 1]()
+![Dashboard 1](images/dashboard1.png)
+![Dashboard 2](images/dashboard2.png)
+![Dashboard 3](images/dashboard3.png)
 
 ---
 
